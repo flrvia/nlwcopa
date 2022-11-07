@@ -396,5 +396,5 @@ Esse projeto está sob a licença MIT.
 </br>
 
 <p align="center">
-Feito com ♥ by Flávia :vulcan_salute:
+Feito com ♥ by Flávia [Conecte-se comigo no LinkedIn!](https://www.linkedin.com/in/flaviasantanab/)
 </p>

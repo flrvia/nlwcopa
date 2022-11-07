@@ -16,7 +16,6 @@
     // workbench
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Omni",
   
     // prettier
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -26,7 +25,7 @@
     "prettier.semi": false,
   
     // terminal
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontSize": 14,
     "terminal.integrated.profiles.windows": {
       "Git Bash": {
         "source": "Git Bash"
